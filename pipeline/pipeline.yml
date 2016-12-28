@@ -2,7 +2,7 @@ resources:
   - name: sources
     type: git
     source:
-      uri: https://github.com/riteshbabu/concourse-demo.git
+      uri: https://github.com/kalaiganeshan/Sample_Nodejs.git
       branch: master
 
 jobs:
